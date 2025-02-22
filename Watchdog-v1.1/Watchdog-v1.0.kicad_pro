@@ -688,7 +688,7 @@
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Watchdog-v1.0.step",
       "svg": "",
       "vrml": ""
     },
